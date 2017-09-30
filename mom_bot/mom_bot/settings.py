@@ -30,6 +30,9 @@ ALLOWED_HOSTS = []
 
 # Application definition
 
+SLACK_CLIENT_ID = "179848116532.179255407456"
+SLACK_CLIENT_SECRET = "da343519d2bb31fb8b08d5cf16b22212"
+
 INSTALLED_APPS = [
     'django.contrib.admin',
     'django.contrib.auth',
